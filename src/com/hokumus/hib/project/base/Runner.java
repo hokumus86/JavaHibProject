@@ -1,6 +1,6 @@
 package com.hokumus.hib.project.base;
 
-import com.hokumus.hib.project.kullanici.dao.KullaniciDAO;
+import com.hokumus.hib.project.dao.KullaniciDAO;
 import com.hokumus.hib.project.model.Kullanici;
 
 public class Runner {

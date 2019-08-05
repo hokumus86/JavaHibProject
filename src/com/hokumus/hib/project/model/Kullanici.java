@@ -66,4 +66,10 @@ public class Kullanici {
 		this.userName = userName;
 	}
 
+	@Override
+	public String toString() {
+		return "Kullanici id=" + id + ", name=" + name + ", surname=" + surname + ", email=" + email + ", userName="
+				+ userName + "";
+	}
+
 }
